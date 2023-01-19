@@ -1,9 +1,16 @@
 import React from 'react'
+import CocktailList from '../components/CocktailList'
+import SearchForm from '../components/SearchForm'
 
-function Home() {
+function Home(){
+
   return (
-    <div>Home</div>
-  )
+    <main>
+    <CocktailList />
+    <SearchForm />
+   
+    
+    </main>)
 }
 
 export default Home

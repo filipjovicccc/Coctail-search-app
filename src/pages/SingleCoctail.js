@@ -1,9 +1,9 @@
 import React from 'react'
 
-function SingleCoctail() {
+function SingleCocktail() {
   return (
-    <div>SingleCoctail</div>
+    <div>SingleCocktail</div>
   )
 }
 
-export default SingleCoctail
+export default SingleCocktail
